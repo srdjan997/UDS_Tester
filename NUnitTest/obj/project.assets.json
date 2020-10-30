@@ -5777,11 +5777,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bobos\\Desktop\\TEST\\BSCRad_vol2\\BSCRad\\NUnitTest\\NUnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\bobos\\Desktop\\UDS_CAN_TESTER\\NUnitTest\\NUnitTest.csproj",
       "projectName": "NUnitTest",
-      "projectPath": "C:\\Users\\bobos\\Desktop\\TEST\\BSCRad_vol2\\BSCRad\\NUnitTest\\NUnitTest.csproj",
+      "projectPath": "C:\\Users\\bobos\\Desktop\\UDS_CAN_TESTER\\NUnitTest\\NUnitTest.csproj",
       "packagesPath": "C:\\Users\\bobos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bobos\\Desktop\\TEST\\BSCRad_vol2\\BSCRad\\NUnitTest\\obj\\",
+      "outputPath": "C:\\Users\\bobos\\Desktop\\UDS_CAN_TESTER\\NUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5800,8 +5800,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\bobos\\Desktop\\TEST\\BSCRad_vol2\\BSCRad\\CanOnUDS\\CanOnUDS.csproj": {
-              "projectPath": "C:\\Users\\bobos\\Desktop\\TEST\\BSCRad_vol2\\BSCRad\\CanOnUDS\\CanOnUDS.csproj"
+            "C:\\Users\\bobos\\Desktop\\UDS_CAN_TESTER\\CanOnUDS\\CanOnUDS.csproj": {
+              "projectPath": "C:\\Users\\bobos\\Desktop\\UDS_CAN_TESTER\\CanOnUDS\\CanOnUDS.csproj"
             }
           }
         }

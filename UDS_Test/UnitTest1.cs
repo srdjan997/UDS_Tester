@@ -10,28 +10,50 @@ namespace UDS_Test
     [TestClass]
     public class UnitTest1
     {
-        [TestMethod]
-        public void TestMethod1()
+        enum Session : int
         {
-            Console.WriteLine("Hello to App UDS on CAN!!");
-            Console.WriteLine("\n");
-            var test = new Program();
-            Boolean res;
-            //////////////////////////////////////////////////////
-            res = test.TestCase1(test,0X01);
-            Console.WriteLine("\n\n"+res);
-            Thread.Sleep(1000);
-            Assert.IsTrue(res);
-            if (res == true)
-            {
-                Console.WriteLine("TEST PASSED!!");
-               
-            }
-            else
-            {
-                Console.WriteLine("TEST FAILED");
-                
-            }
+            DEFAULT_SESSION = 0X01,
+            PROGRAMMING_SESSION = 0X02,
+            EXTENDET_SESSION = 0X03,
         }
+
+        public const string READ_TEMPERATURE = "B006";
+        public const string READ_VOLTAGE_SUPPLY = "0112";
+        public const string READ_DATE_TIME = "010B";
+        public const string READ_CPU_TEMPERATURE = "B00A";
+        //////////////////////////////////////////////////////////////////////// 
+        [TestMethod]
+        public void ReadDataById_Test()
+        {
+            var test = new Program();
+            Boolean res2 = test.TestCase3(test, READ_VOLTAGE_SUPPLY);
+            Assert.IsFalse(res2);
+        }
+        //////////////////////////////////////////////////////////////////////// 
+        [TestMethod]
+
+        public void ChangeSession_Test()
+        {
+            var test = new Program();
+            Boolean res = test.TestCase1(test, (int)Session.DEFAULT_SESSION);
+            Assert.IsTrue(res);
+        }
+        //////////////////////////////////////////////////////////////////////// 
+        [TestMethod]
+        public void Tester_Present_Test()
+        {
+            var test = new Program();
+            Boolean res = test.TestCase4(test);
+            Assert.IsFalse(res);
+        }
+        //////////////////////////////////////////////////////////////////////// 
+        [TestMethod]
+        public void EcuReset_Test()
+        {
+            var test = new Program();
+            Boolean res = test.TestCase2(test);
+            Assert.IsTrue(res);
+        }
+        //////////////////////////////////////////////////////////////////////// 
     }
 }
