@@ -84,3 +84,5 @@ C:\Users\bobos\Desktop\TEST\BSCRad_vol2\BSCRad\TestApp\obj\Debug\netcoreapp2.1\T
 C:\Users\bobos\Desktop\TEST\BSCRad_vol2\BSCRad\TestApp\obj\Debug\netcoreapp2.1\TestApp.csproj.CopyComplete
 C:\Users\bobos\Desktop\TEST\BSCRad_vol2\BSCRad\TestApp\obj\Debug\netcoreapp2.1\TestApp.dll
 C:\Users\bobos\Desktop\TEST\BSCRad_vol2\BSCRad\TestApp\obj\Debug\netcoreapp2.1\TestApp.pdb
+C:\Users\bobos\Desktop\UDS_CAN_TESTER\TestApp\obj\Debug\netcoreapp2.1\TestApp.dll
+C:\Users\bobos\Desktop\UDS_CAN_TESTER\TestApp\obj\Debug\netcoreapp2.1\TestApp.pdb

@@ -77,3 +77,5 @@ C:\Users\bobos\Desktop\TEST\BSCRad_vol2\BSCRad\CanOnUDS\obj\Debug\netcoreapp2.1\
 C:\Users\bobos\Desktop\TEST\BSCRad_vol2\BSCRad\CanOnUDS\obj\Debug\netcoreapp2.1\CanOnUDS.csproj.CopyComplete
 C:\Users\bobos\Desktop\TEST\BSCRad_vol2\BSCRad\CanOnUDS\obj\Debug\netcoreapp2.1\CanOnUDS.dll
 C:\Users\bobos\Desktop\TEST\BSCRad_vol2\BSCRad\CanOnUDS\obj\Debug\netcoreapp2.1\CanOnUDS.pdb
+C:\Users\bobos\Desktop\UDS_CAN_TESTER\CanOnUDS\obj\Debug\netcoreapp2.1\CanOnUDS.dll
+C:\Users\bobos\Desktop\UDS_CAN_TESTER\CanOnUDS\obj\Debug\netcoreapp2.1\CanOnUDS.pdb
