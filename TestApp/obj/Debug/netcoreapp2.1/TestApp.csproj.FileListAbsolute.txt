@@ -97,3 +97,8 @@ C:\Users\bobos\Desktop\UDS_CAN_TESTER\TestApp\obj\Debug\netcoreapp2.1\TestApp.cs
 C:\Users\bobos\Desktop\UDS_CAN_TESTER\TestApp\obj\Debug\netcoreapp2.1\TestApp.AssemblyInfoInputs.cache
 C:\Users\bobos\Desktop\UDS_CAN_TESTER\TestApp\obj\Debug\netcoreapp2.1\TestApp.AssemblyInfo.cs
 C:\Users\bobos\Desktop\UDS_CAN_TESTER\TestApp\obj\Debug\netcoreapp2.1\TestApp.csproj.CopyComplete
+C:\Users\bobos\Desktop\UDS_CAN_TESTER\TestApp\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bobos\Desktop\UDS_CAN_TESTER\TestApp\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bobos\Desktop\UDS_CAN_TESTER\TestApp\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bobos\Desktop\UDS_CAN_TESTER\TestApp\bin\Debug\netcoreapp2.1\TestApp.runtimeconfig.json
+C:\Users\bobos\Desktop\UDS_CAN_TESTER\TestApp\bin\Debug\netcoreapp2.1\TestApp.runtimeconfig.dev.json

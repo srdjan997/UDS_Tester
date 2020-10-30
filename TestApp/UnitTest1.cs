@@ -48,15 +48,7 @@ namespace TestApp
             Assert.IsFalse(res);
         }
         //////////////////////////////////////////////////////////////////////// 
-        [TestMethod]
-        public void EcuReset_Test()
-        {                   
-            var test = new Program();
-            Boolean res = test.TestCase2(test);          
-            Assert.IsTrue(res);    
-        }
-        //////////////////////////////////////////////////////////////////////// 
-
+        
 
     }
 }
