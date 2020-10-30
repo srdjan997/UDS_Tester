@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "RuhPInlCGGIGKhJHIZll/dg3GVA/TEQl1S5/S+MDxcxf2VF+fRHaNito1lEN11Bg121YNvAm+5u0v+D0qboW6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Srdjan\\Downloads\\BSCRad_vol2\\BSCRad\\CanOnUDS\\CanOnUDS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Srdjan\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Srdjan\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Srdjan\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Srdjan\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Srdjan\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Srdjan\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Srdjan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
